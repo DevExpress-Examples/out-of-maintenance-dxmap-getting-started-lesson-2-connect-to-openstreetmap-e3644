@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/MapControlLesson2/MainPage.xaml) (VB: [MainPage.xaml](./VB/MapControlLesson2/MainPage.xaml))
+<!-- default file list end -->
 # DXMap Getting Started - Lesson 2 - Connect to OpenStreetMap
 
 
